@@ -1,21 +1,27 @@
 /*  your css code here. If applicable */
 .player_one{
-	display:flex;
-	flex-direction:column;
+/* 	display:flex;
+	flex-direction:column; */
 	border: 1px solid grey;
-	padding:10px;
+/* 	padding:10px; */
 	background-color:white;
-	margin:25px
+	margin:25px;
+}
+
+li{
+	list-style-type:none;
+	padding:5px;	
 }
 
 #a{
 	text-decoration:none;
 	color:black;
-	padding:3px;
+
 }
 
 .player_two{
 	margin:10px;
+	background-color:rgb(255,255,255);
 }
 
 .player_three{
