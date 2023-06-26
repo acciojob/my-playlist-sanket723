@@ -1,9 +1,6 @@
 /*  your css code here. If applicable */
 .player_one{
-/* 	display:flex;
-	flex-direction:column; */
 	border: 1px solid grey;
-/* 	padding:10px; */
 	background-color:white;
 	margin:25px;
 }
@@ -16,7 +13,6 @@ li{
 #a{
 	text-decoration:none;
 	color:black;
-
 }
 
 .player_two{
